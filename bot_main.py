@@ -1,1 +1,1 @@
-print("Go")
+print("lets_go")
