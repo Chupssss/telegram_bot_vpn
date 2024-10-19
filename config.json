@@ -1,0 +1,8 @@
+{
+  "API_token": "TELEGRAM_BOT_TOKEN",
+  "admins": [
+    "id_user1",
+    "id_user2"
+  ],
+
+}
