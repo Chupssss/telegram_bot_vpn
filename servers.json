@@ -1,0 +1,16 @@
+{
+  "server1": {
+    "host": "ip_addres",
+    "port": "port",
+    "user": "username",
+    "password": "password",
+    "path": "/path/to/your/file"
+    },
+  "server2": {
+    "host": "ip_addres",
+    "port": "port",
+    "user": "username",
+    "password": "password",
+    "path": "/path/to/your/file"
+    }
+}

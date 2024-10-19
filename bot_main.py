@@ -22,4 +22,3 @@ def is_admin(message):
     else:
         return False
 
-def save_s
