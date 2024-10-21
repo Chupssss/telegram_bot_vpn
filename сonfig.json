@@ -3,5 +3,6 @@
   "admins": [
     "id_user1",
     "id_user2"
-  ]
+  ],
+  "bot_name": "FGP"
 }

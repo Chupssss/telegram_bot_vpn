@@ -22,3 +22,10 @@ def is_admin(message):
     else:
         return False
 
+@bot.message_handler(commands=["start"])
+def start(message):
+    bot.send_message(message.chat.id,f"Вас приветсвует {config["bot_name"]}!\nВведите /help для просмотра доступных команд.")
+
+@bot.message_handler(commands=["help"])
+def help(message):
+    bot.send_message(message.chat.id,"")
